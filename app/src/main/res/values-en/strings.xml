@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rhythm Alarm</string>
+    <string name="nav_alarms">Alarms</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_settings">Settings</string>
+    <string name="channel_alarm_ring_name">Alarm Ringing</string>
+    <string name="channel_alarm_ring_desc">Smart holiday alarm ringing alerts</string>
+    <string name="channel_sync_status_name">Holiday Sync Status</string>
+    <string name="channel_sync_status_desc">Automatic statutory holiday and lieu workday update notices</string>
+    <string name="alarm_dismiss">Dismiss</string>
+    <string name="alarm_snooze">Snooze</string>
+</resources>

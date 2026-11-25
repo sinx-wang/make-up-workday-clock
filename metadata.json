@@ -1,0 +1,6 @@
+{
+  "name": "节律闹钟",
+  "description": "根据中国大陆法定节假日及调休补班自动开启或关闭指定闹钟与闹钟组，支持自动同步最新放假安排与手动维护，深度适配三星 Galaxy S26 Ultra 与 One UI 9。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

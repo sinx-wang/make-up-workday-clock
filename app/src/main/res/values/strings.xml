@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">节律闹钟</string>
+    <string name="nav_alarms">闹钟</string>
+    <string name="nav_calendar">日历</string>
+    <string name="nav_settings">设置</string>
+    <string name="channel_alarm_ring_name">闹钟响铃</string>
+    <string name="channel_alarm_ring_desc">法定节假日智能闹钟响铃提醒</string>
+    <string name="channel_sync_status_name">假期同步状态</string>
+    <string name="channel_sync_status_desc">节假日及调休安排自动更新通知</string>
+    <string name="alarm_dismiss">关闭闹钟</string>
+    <string name="alarm_snooze">稍后提醒</string>
+</resources>
